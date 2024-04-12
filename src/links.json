@@ -1,0 +1,5 @@
+{
+    "api": "http://www.omdbapi.com",
+    "posterApi": "http://img.omdbapi.com",
+    "apiKey": "e081ba7b"
+}
